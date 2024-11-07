@@ -1,5 +1,3 @@
-# aprendiendo_lxc
-
 # LXC installation and setup on Lubuntu
 
 # LXC Installation and Configuration Guide for Lubuntu␍
