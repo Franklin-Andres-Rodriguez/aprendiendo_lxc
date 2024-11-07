@@ -1,4 +1,4 @@
-> .[!NOTE].
+> _[!NOTE]_
 
 # LXC installation and setup on Lubuntu
 
